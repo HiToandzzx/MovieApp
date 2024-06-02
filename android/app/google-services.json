@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "282816287153",
+    "project_id": "nguyenhuytoan-firebase",
+    "storage_bucket": "nguyenhuytoan-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282816287153:android:c414ffa379e014f439ad90",
+        "android_client_info": {
+          "package_name": "com.education.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282816287153-dfkrcta340uvr89bd7paea5gdq1810m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcI-BOaQ-FsQb2U4uFabA_k2_-Km0QUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282816287153-dfkrcta340uvr89bd7paea5gdq1810m3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282816287153-6a3l562bail69lcbnluj2ju8ovq6hvoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.education.demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282816287153:android:2c1974588b64e5c239ad90",
+        "android_client_info": {
+          "package_name": "vn.edu.ntu.huytoan.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282816287153-dfkrcta340uvr89bd7paea5gdq1810m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcI-BOaQ-FsQb2U4uFabA_k2_-Km0QUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282816287153-dfkrcta340uvr89bd7paea5gdq1810m3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282816287153-6a3l562bail69lcbnluj2ju8ovq6hvoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.education.demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282816287153:android:ba50a079990cfd8339ad90",
+        "android_client_info": {
+          "package_name": "vn.edu.ntu.huytoan.nguyenhuytoan_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282816287153-dfkrcta340uvr89bd7paea5gdq1810m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcI-BOaQ-FsQb2U4uFabA_k2_-Km0QUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282816287153-dfkrcta340uvr89bd7paea5gdq1810m3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282816287153-6a3l562bail69lcbnluj2ju8ovq6hvoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.education.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
